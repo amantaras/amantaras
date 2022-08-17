@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amantaras
-- 👀 I’m interested in AKS, Photography, music and cats!
+- 👀 I’m interested in AKS, Photography, music, art and cats!
 - 🌱 I’m currently learning AKS
 - 💞️ I’m looking to collaborate on AKS
 - 📫 You can reach me through github
