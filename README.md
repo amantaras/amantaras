@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amantaras
-- 👀 I’m interested in AKS, Photography, music, art and cats!
-- 🌱 I’m currently learning AKS
-- 💞️ I’m looking to collaborate on AKS
+- 👀 I’m interested in AI, Cloud Native, photography, music, art and cats!
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on LLM trainning and inferencing
 - 📫 You can reach me through github
 
 <!---
